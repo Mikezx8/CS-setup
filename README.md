@@ -29,8 +29,8 @@
 Clone/download the script:
 
 ```sh
-git clone https://github.com/yourusername/cyber-security-setup-tool.git
-cd cyber-security-setup-tool
+git clone https://github.com/Mikezx8/CS-setup.git
+cd CS-setup
 ```
 
 Alternatively, copy `cs.setup.sh` to your local system.
